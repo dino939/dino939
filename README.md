@@ -22,20 +22,14 @@
 
 <details open align="center">
   <summary>Socials</summary>
-  <a href="https://discordapp.com/users/631527275346657280">
+  <a href="https://discordapp.com/users/521286906516996115">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
-  </a>
-  <a href="https://gitlab.com/narumi-hime">
-    <img src="https://skillicons.dev/icons?i=gitlab&theme=dark"/>
-  </a>
-  <a href="https://twitter.com/narumi_hime">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark"/>
   </a>
   <br>
      
   <details align="center">
     <summary>Discord Server</summary>
-    <a align="center" href="https://discord.gg/tRU27KtPAZ"><img src="https://discordapp.com/api/guilds/900083350314811432/widget.png?style=banner2"/></a>
+    <a align="center" href="https://discord.gg/h9wPVtjfXb"><img src="https://discordapp.com/api/guilds/1003450302529273906/widget.png?style=banner2"/></a>
   </details>
 </details>
 
