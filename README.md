@@ -90,31 +90,4 @@
     </dd> Dont want to search for image im lazy-->
   </dl>
 
-  <br><br>
-  <dl>
-    <dt><h2>PA-san</h2></dt> <!-- Underrated -->
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/2/492574.jpg"/></span>
-    </dd>
-    <dt><h2>Bocchi</h2></dt> <!-- The Cube -->
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/8/495127.jpg"/></span>
-    </dd>
-    <dt><h2>Setsuna</h2></dt> <!-- ( ͡° ͜ʖ ͡°) -->
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/8/422024.jpg"/></span>
-    </dd>
-    <dt><h2>Dakini</h2></dt> <!-- Yes. -->
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/14/506728.jpg"/></span>
-    </dd>
-  </dl>
-  <p>Yes.</p>
-</details>
 
-<br>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/narumii"><img height="100em" src="https://count.getloli.com/get/@:なるみ?theme=rule34"/></a>
-</p>
-
-<img src="https://github.com/narumii/narumii/assets/57463654/cba93ead-06f4-4194-bd62-b33ea4b6c7f2" width="100%">
