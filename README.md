@@ -8,19 +8,15 @@
   <span title="Isn't she cute?">
     <img src="https://github.com/dino939/dino939/blob/main/assests/Alien%20x%20do%20albedo.jpg?raw=true"/>
   </span><br><br>
-  <strong>❤️ ロリ (Loli) 😭<strong>
+  <strong>Benjamin Tennison<strong>
 </p>
 
 <!-- 403? -->
 <br>
 <p align="center">
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=narumii&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
-  </picture>
-
   <br>
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narumii&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dino939&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=red"/>
   </picture>
 </p>
 
