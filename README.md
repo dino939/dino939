@@ -33,51 +33,5 @@
   </details>
 </details>
 
-<!-- Update This!!!!! -->
-<br>
-<details align="right">
-  <summary>Uohhhhhhhhh! 😭</summary>
-  <dl>
-    <dt><h2>Satou</h2></dt> <!-- Is she, isnt she? ¯\_(ツ)_/¯ -->
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/7/364141.jpg"/></span>
-    </dd>
-    <dt><h2>Gab</h2></dt>
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/11/324138.jpg"/></span>
-    </dd>
-    <dt><h2>Roxy</h2></dt>
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/4/423670.jpg"/></span>
-    </dd>
-    <dt><h2>Eris</h2></dt>
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/3/423668.jpg"/></span>
-    </dd>
-    <dt><h2>Sylphy</h2></dt>   
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/9/433624.jpg"/></span>
-    </dd>
-    <dt><h2>Aisha</h2></dt>
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/16/274691.jpg"/></span>
-    </dd>
-    <dt><h2>Norn</h2></dt>
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/10/457761.jpg"/></span>
-    </dd>
-    <dt><h2>Megumin</h2></dt>
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/7/447778.jpg"/></span>
-    </dd>
-    <dt><h2>Mitama</h2></dt>
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/2/494625.jpg"/></span>
-    </dd>
-    <!--<dt><h2>Rebecca</h2></dt>
-    <dd>
-      <span title="Fuckable"><img src="https://cdn.myanimelist.net/images/characters/13/497269.jpg"/></span>
-    </dd> Dont want to search for image im lazy-->
-  </dl>
-
+ 
 
