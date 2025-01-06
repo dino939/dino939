@@ -1,7 +1,7 @@
 <!-- Twitter when? -->
-<h6><span title="ロリ・レイプ"><p align="right">ロリコン</p></span></h6>
+<h6><span title="Ne pasti pj"><p align="right">ok?</p></span></h6>
 <img height="40" align="left" src="https://skillicons.dev/icons?i=java,kotlin,idea&theme=dark"/>
-<h1><span title="はあぁぁ...くそメスガキが...！！！大人を誘惑しやがって💢💢レイプ矯正が必要なんだよな...💢"><p align="right">なるみ</p></span></h1>
+<h1><span title="Minecraft?????"><p align="right">Tresh</p></span></h1>
 
 <br>
 <p align="center">
@@ -29,7 +29,7 @@
      
   <details align="center">
     <summary>Discord Server</summary>
-    <a align="center" href="https://discord.gg/h9wPVtjfXb"><img src="https://discordapp.com/api/guilds/1003450302529273906/widget.png?style=banner2"/></a>
+    <a align="center" href="https://discord.gg/h9wPVtjfXb"><img src="https://github.com/dino939/dino939/blob/main/assests/Screenshot%202025-01-06%20151606.png?raw=true"/></a>
   </details>
 </details>
 
