@@ -6,7 +6,7 @@
 <br>
 <p align="center">
   <span title="Isn't she cute?">
-    <img src="[https://github.com/narumii/narumii/assets/57463654/a0b659ed-332e-49d5-82ed-057316279ed9](https://github.com/dino939/dino939/blob/main/assests/Alien%20x%20do%20albedo.jpg?raw=true)"/>
+    <img src="https://github.com/dino939/dino939/blob/main/assests/Alien%20x%20do%20albedo.jpg?raw=true"/>
   </span><br><br>
   <strong>❤️ ロリ (Loli) 😭<strong>
 </p>
